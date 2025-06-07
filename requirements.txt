@@ -1,0 +1,8 @@
+langchain-community
+langchain_google_genai
+pypdf
+langchain 
+wikipedia
+youtube_search
+langgraph
+python-dotenv
